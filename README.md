@@ -14,7 +14,7 @@ Automatizo antes de repetir.
 | OT | Lenguajes | Data & Observabilidad | IA aplicada | Infra |
 |---|---|---|---|---|
 | Siemens TIA Portal / Step7 | Python | InfluxDB · Telegraf | Claude (Anthropic API) | Docker |
-| Omron · Rockwell · Schneider | C# | Grafana | Ollama · Mixtral · Qwen | Linux · Windows |
+| Omron · Rockwell · Schneider | C# | Grafana | Ollama · Mistral · Qwen | Linux · Windows |
 | WinCC · ASEM · Indusoft | Go | SQLite | Embeddings + RAG | Tailscale |
 | Modbus TCP/RTU · Profinet | REST APIs | ChromaDB | Telegram Bots | Homelab |
 
